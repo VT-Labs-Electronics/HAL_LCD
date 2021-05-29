@@ -3,6 +3,11 @@ HAL_LCD is an STM32 implementation of the [Arduino Liquid Crystal Library](https
 
 The Library was tested on the [Nucleo-R334R8](https://www.st.com/en/evaluation-tools/nucleo-f334r8.html) Development board. Enjoy!
 
+![Screenshot1](https://github.com/VT-Labs-Electronics/HAL_LCD/blob/main/Screenshot1.jpg)
+
+
+![Screenshot2](https://github.com/VT-Labs-Electronics/HAL_LCD/blob/main/Screenshot2.jpg)
+
 ## Example of Usage
 All of the functions in the Liquid Crystal Library are available on this library but are not implemented with the same function names. To use the library, you need to specify if you are using 4 bit or 8 bit mode plus the pins and ports you are using, for example
 
